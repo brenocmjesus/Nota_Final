@@ -1,0 +1,10 @@
+C:\Users\natal\source\repos\NotaFinal\NotaFinal\bin\Debug\NotaFinal.exe.config
+C:\Users\natal\source\repos\NotaFinal\NotaFinal\bin\Debug\NotaFinal.exe
+C:\Users\natal\source\repos\NotaFinal\NotaFinal\bin\Debug\NotaFinal.pdb
+C:\Users\natal\source\repos\NotaFinal\NotaFinal\obj\Debug\NotaFinal.csprojAssemblyReference.cache
+C:\Users\natal\source\repos\NotaFinal\NotaFinal\obj\Debug\NotaFinal.frmNotaFinal.resources
+C:\Users\natal\source\repos\NotaFinal\NotaFinal\obj\Debug\NotaFinal.Properties.Resources.resources
+C:\Users\natal\source\repos\NotaFinal\NotaFinal\obj\Debug\NotaFinal.csproj.GenerateResource.cache
+C:\Users\natal\source\repos\NotaFinal\NotaFinal\obj\Debug\NotaFinal.csproj.CoreCompileInputs.cache
+C:\Users\natal\source\repos\NotaFinal\NotaFinal\obj\Debug\NotaFinal.exe
+C:\Users\natal\source\repos\NotaFinal\NotaFinal\obj\Debug\NotaFinal.pdb
